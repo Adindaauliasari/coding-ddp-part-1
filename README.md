@@ -18,5 +18,6 @@ int main(){
 	
 	
 	cout<<"username : "<< NPM << endl;
+	
 	cout<<"Password : "<< Tanggal_lahir << " " << Bulan_lahir << " " << Tahun_lahir << endl;
 }
