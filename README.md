@@ -15,6 +15,7 @@ int main(){
 	getline(cin,Bulan_lahir);
 	getline(cin,Tahun_lahir);
 	
+	
 	cout<<""<<endl;
 	
 	
