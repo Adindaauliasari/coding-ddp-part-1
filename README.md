@@ -2,7 +2,9 @@
 
 using namespace std;
 
-int main(){
+int main()
+
+{
 
 	string NPM;
 	string Tanggal_lahir;
