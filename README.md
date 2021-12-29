@@ -12,16 +12,16 @@ int main ()
 	string Tahun_lahir;
 	
 	
-	getline(    cin,NPM      );
-	getline(cin,Tanggal_lahir);
-	getline(cin,Bulan_lahir);
-	getline(cin,Tahun_lahir);
+	getline( cin,NPM );
+	getline( cin,Tanggal_lahir );
+	getline( cin,Bulan_lahir );
+	getline( cin,Tahun_lahir );
 	
 	
-	cout<<""<<endl;
+	cout<< "" << endl;
 	
-	cout<<"username : "<< NPM << endl;
+	cout<< "username : "<< NPM << endl;
 	
-	cout<<"Password : "<< Tanggal_lahir << " " << Bulan_lahir << " " << Tahun_lahir << endl;
+	cout<< "Password : "<< Tanggal_lahir << " " << Bulan_lahir << " " << Tahun_lahir << endl;
 	
 }
