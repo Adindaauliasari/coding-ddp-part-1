@@ -7,6 +7,7 @@ int main ()
 {
 
 	string NPM;
+	
 	string Tanggal_lahir;
 	string Bulan_lahir;
 	string Tahun_lahir;
