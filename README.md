@@ -13,10 +13,10 @@ int main ()
 	string Tahun_lahir;
 	
 	
-	getline( cin,NPM );
-	getline( cin,Tanggal_lahir );
-	getline( cin,Bulan_lahir );
-	getline( cin,Tahun_lahir );
+	getline ( cin,NPM );
+	getline ( cin,Tanggal_lahir );
+	getline ( cin,Bulan_lahir );
+	getline ( cin,Tahun_lahir );
 	
 	
 	cout<< "" << endl;
