@@ -19,7 +19,7 @@ int main ()
 	getline ( cin,Tahun_lahir );
 	
 	
-	cout<< "" << endl;
+	cout << "" << endl;
 	
 	cout<< "username : "<< NPM << endl;
 	
