@@ -1,7 +1,5 @@
 #include "iostream"
-
 using namespace std ;
-
 int main ()
 {
 	string NPM ;
@@ -9,12 +7,10 @@ int main ()
 	string Bulan_lahir;
 	string Tahun_lahir;
 	
-	
 	getline ( cin,NPM );
 	getline ( cin,Tanggal_lahir );
 	getline ( cin,Bulan_lahir );
 	getline ( cin,Tahun_lahir );
-	
 	
 	cout << "" << endl;
 	
